@@ -2,10 +2,22 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+<<<<<<< HEAD
+=======
+  console.log('console called ')
+  console.log('console called ')
+  console.log('console called ')
+  console.log('console called ')
+  console.log('console called ')
+  console.log('console called ')
+  console.log('console called ')
+  console.log('console called ')
+  console.log('console called ')
+>>>>>>> c7af789 (changes new)
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logos} className="App-logo" alt="logo" />
+        <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
