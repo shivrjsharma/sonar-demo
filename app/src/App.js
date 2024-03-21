@@ -5,7 +5,7 @@ function App() {
   const a = ''
   const b =''
   const c =''
-  const c =''
+
   console.log('console called ')
   console.log('console called ')
   console.log('console called ')
@@ -16,9 +16,7 @@ function App() {
   console.log('console called ')
   console.log('console called ')
 
-  function callme(){
-    
-  }
+ 
 
   return (
     <div className="App">
