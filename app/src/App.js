@@ -3,10 +3,18 @@ import './App.css';
 
 function App() {
   console.log('console called ')
+  console.log('console called ')
+  console.log('console called ')
+  console.log('console called ')
+  console.log('console called ')
+  console.log('console called ')
+  console.log('console called ')
+  console.log('console called ')
+  console.log('console called ')
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logos} className="App-logo" alt="logo" />
+        <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
