@@ -2,18 +2,9 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-<<<<<<< HEAD
-=======
-  console.log('console called ')
-  console.log('console called ')
-  console.log('console called ')
-  console.log('console called ')
-  console.log('console called ')
-  console.log('console called ')
-  console.log('console called ')
-  console.log('console called ')
-  console.log('console called ')
->>>>>>> c7af789 (changes new)
+
+  const a = ''
+  const b =''
   return (
     <div className="App">
       <header className="App-header">
