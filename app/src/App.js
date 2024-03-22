@@ -4,8 +4,7 @@ import './App.css';
 function App() {
 
 const b =''
-  const a = ''
-const c =''
+
       console.log('working now   ')
   return (
     <div className="App">
