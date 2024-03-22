@@ -2,10 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-
-const b =''
-
-      console.log('working now   ')
+      console.log('working    ')
   return (
     <div className="App">
       <header className="App-header">
