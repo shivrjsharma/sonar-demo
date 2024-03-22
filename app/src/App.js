@@ -2,10 +2,10 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-console.log(b)
+
 const b =''
   const a = ''
-
+const c =''
       console.log('working now   ')
   return (
     <div className="App">
